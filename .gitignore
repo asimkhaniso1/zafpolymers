@@ -1,0 +1,5 @@
+# Local export/working folder — repo tracks the built site at root
+deploy/
+
+# Company profile PDF (not part of the site)
+ZAF POLYMERS PROFILE 1.pdf
